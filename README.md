@@ -6,6 +6,9 @@ Assignment 1 (Data Profiling). Dataset: [Adult Census Income, UCI](https://archi
 | Name | Matric No. |
 |---|---|
 | Mohamad Azamuddin | A209604 |
+| Muhammad Qinawee | A210093 |
+| Aiman Ashraff | A210998 |
+| Airell Mikhail | A210140 |
 
 ## Run
 ```
