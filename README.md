@@ -5,7 +5,7 @@ Assignment 1 (Data Profiling). Dataset: [Adult Census Income, UCI](https://archi
 ## Team
 | Name | Matric No. |
 |---|---|
-| Mohamad Azamuddin | <MATRIC> |
+| Mohamad Azamuddin | A209604 |
 
 ## Run
 ```
